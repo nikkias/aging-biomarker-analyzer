@@ -148,6 +148,10 @@ pip install -r requirements.txt
 
 This project is for **educational and research purposes only**. It is not a clinical diagnostic tool and should not be used to make medical decisions. Always consult a qualified healthcare professional.
 
+## Related Projects
+→ [Gene Expression Aging Analyzer](https://github.com/nikkias/gene-expression-aging) — 
+brain transcriptome analysis connecting molecular aging to clinical biomarkers
+
 ---
 
 <div align="center">
