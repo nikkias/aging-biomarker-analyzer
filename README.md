@@ -13,7 +13,7 @@
 **An end-to-end machine learning pipeline for identifying cardiovascular aging biomarkers,**  
 **with an interactive Streamlit application for personalized risk assessment.**
 
-[Live Demo](#running-the-app) · [Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) · [Notebook](notebook.ipynb)
+[🚀 Live Demo](https://aging-biomarker-analyzer.streamlit.app/) · [Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) · [Notebook](notebook.ipynb)
 
 </div>
 
